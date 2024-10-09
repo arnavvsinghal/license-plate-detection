@@ -17,13 +17,13 @@ entry/exit process as well as remove the use of offline documents and manual ent
 a system can also help reduce manual errors that may arise due to bad handwriting,
 erroneous reading or hearing of license plate numbers.
 The main benefits over traditional system are:-
-Improved Efficiency: The system automates the license plate reading process,
+- Improved Efficiency: The system automates the license plate reading process,
 significantly reducing processing time and eliminating queues at entry points.
-Enhanced Accuracy: By eliminating human error in data entry, the detection system
+- Enhanced Accuracy: By eliminating human error in data entry, the detection system
 ensures accurate identification of vehicles and promotes robust security.
-Reduced Reliance on Manpower: The system frees up security personnel from manual
+- Reduced Reliance on Manpower: The system frees up security personnel from manual
 verification tasks, allowing them to focus on more strategic security measures.
-Improved Working Conditions: Security guards are no longer required to stand
+- Improved Working Conditions: Security guards are no longer required to stand
 outdoors in harsh weather, leading to improved working conditions and potentially
 higher alertness.
 
