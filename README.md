@@ -27,7 +27,7 @@ Improved Working Conditions: Security guards are no longer required to stand
 outdoors in harsh weather, leading to improved working conditions and potentially
 higher alertness.
 
-Refer [Project_Report.pdf](B21CS034_B21CS014_B21CS036.pdf) and [Project Implementation vedio](https://drive.google.com/file/d/1M0iOA1-8Fd7X8GIJI1S8sztNUgw_u0Y6/view?usp=sharing)  for more details regarding the implementation. 
+Refer [Project_Report.pdf](B21CS034_B21CS014_B21CS036.pdf) and [Project Implementation video](https://drive.google.com/file/d/1M0iOA1-8Fd7X8GIJI1S8sztNUgw_u0Y6/view?usp=sharing)  for more details regarding the implementation. 
 
 Give the path of folders "Dataset" and "Search_image" while executing [main.ipynb](main.ipynb)
 ## References:
